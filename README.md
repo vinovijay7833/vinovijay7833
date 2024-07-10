@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinovijay7833
+- 👋 Hi, I’m Vinothini Generative AI Aspirant
 - 👀 I’m interested in Data science , Machine learning and Deep learning
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on data science and AI
